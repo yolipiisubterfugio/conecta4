@@ -8,3 +8,4 @@ def tablero(colum, row):
     return res
 
 def juega(tablero, columna, valor_ficha):
+    
