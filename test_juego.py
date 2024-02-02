@@ -1,5 +1,5 @@
-from juego_fucntions import tablero
-from juego_fucntions import juega
+from juego_functions import tablero
+from juego_functions import juega
 
 def test_crear_tablero():
     tab = tablero(4,3)
