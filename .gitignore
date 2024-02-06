@@ -1,2 +1,3 @@
-tablero/
+venv/
 .vscode/
+**__pycache__/
