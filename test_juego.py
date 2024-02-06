@@ -76,7 +76,8 @@ def test_victoria_horizontal_tablero():
     assert victoria(tab, 'x') == True
     assert victoria(tab, 'o') == False
     
-def test_victoria diagonal():
+def test_victoria_diagonal():
+    
     tab = crea_tablero(6,7)
     juega(tab,0)
 
